@@ -65,3 +65,22 @@ a:hover {
 .button-group div span {
   margin: 0 10px;
 }
+
+.configs {
+  display: flex;
+}
+
+.configs > ul {
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 0px 5px;
+}
+
+.configs > ul > li {
+  list-style-type: none;
+}
+
+.config-heading {
+  font-size: 18px;
+}
